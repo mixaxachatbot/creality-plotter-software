@@ -68,7 +68,7 @@ The free version is fully usable for plotting. **Pro** supports continued develo
 
 | Item | Notes |
 |---|---|
-| 🖨️ **Creality Ender 3 V3 SE** | The supported printer |
+| 🖨️ **Creality Ender 3 V3 SE OR ANY OTHER** | The supported printer |
 | 🔗 **USB-C data cable** | Some cheap cables only charge and will not work |
 | 💻 **Mac or Windows computer** | macOS and Windows supported |
 | 🖊️ **Pen** | Fineliner or gel pen works best |
